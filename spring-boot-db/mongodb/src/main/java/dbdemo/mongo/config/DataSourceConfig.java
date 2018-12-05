@@ -33,7 +33,7 @@ public class DataSourceConfig extends AbstractMongoConfiguration {
     public String getDatabaseName(){
         return env.getRequiredProperty("mongo.name");
     }
-    
+
 
     @Override
     @Bean
