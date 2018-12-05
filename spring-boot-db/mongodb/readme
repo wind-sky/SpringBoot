@@ -1,0 +1,3 @@
+install mongodb in windows
+start db...\bin>mongod --dbpath=d:\mongodb\test
+run/debug RepositoryTests with JUint

@@ -1,0 +1,2 @@
+config redis in test/RedisConfig set hostname and port
+run/debug RedisTest with JUnit
